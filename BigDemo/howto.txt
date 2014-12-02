@@ -1,0 +1,1 @@
+gcc -o touch_test touch_test.c -lpicasoSerial
